@@ -1,0 +1,39 @@
+{
+  "name": "nectarine",
+  "version": "1.0.0",
+  "description": "Nectarine Static Site Generator",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "sinon": "^1.14.1",
+    "chai": "^2.3.0",
+    "sinon-chai": "^2.7.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "coffee-script": "^1.9.2",
+    "mocha": "^2.2.5",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.7.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterdemartini/nectarine.git"
+  },
+  "keywords": [
+    "Static",
+    "Site",
+    "Generator"
+  ],
+  "author": "Peter DeMartini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterdemartini/nectarine/issues"
+  },
+  "homepage": "https://github.com/peterdemartini/nectarine"
+}
