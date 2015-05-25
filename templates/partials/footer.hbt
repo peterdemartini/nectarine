@@ -1,0 +1,19 @@
+    </div>
+  </div>
+  <footer class="footer">
+    <div class="container">
+      <div class="site-title-wrapper">
+        <h1 class="site-title"><a class="js-ajax-link" title="{{meta_title}}" href="{{meta_url}}">{{meta_title}}</a></h1>
+        <a class="button-square button-jump-top js-jump-top" href="#"><i class="fa fa-angle-up"></i></a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js/jquery.history.js"></script>
+  <script type="text/javascript" src="/assets/js/nprogress.js"></script>
+  <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="/assets/js/scripts.js"></script>
+
+</body>
+</html>
